@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InventoryItem</string>
+    <string name="AfterDeleteMesssage">You deleted it</string>
+    <string name="cancel">Cancel</string>
+    <string name="Yes">Yes</string>
+    <string name="Ask">Do You want delete it?</string>
+    <string name="Delete">Delete</string>
+
+</resources>
